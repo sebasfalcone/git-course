@@ -1,25 +1,40 @@
 # git course
 This repository will be used to teach the usage of git and GitHub
 
-## Content
+# Contents
 
-### Basic workflow
+## Day 1 - Introduction
+- What is Git?
+- Configuration
+    - Global
+    - SSH keys 
 
-- Clone
-- Branch
-- Checkout
+## Day 2 - The basics
+- Cloning a repo
+- Status (Untracked, Staged, etc)
 - Add
 - Commit
+    - Amend
 - Push
-- Pull
 - Fetch
+- Pull
+- See the history
 
-### Advance scenarios
+## Day 3 - Advance usage
+- Merge
+- Cherry-pick
+- Reset 
+    - Soft
+    - Hard
+- Revert
+- Rebase
+
+## Day 4 - Extras
+- Blame
+- Submodules
+- Signing commits 
+- Coming soon
+
+## Advance scenarios
 - Reflog
 - Merge
-
-#### Editing the history
-- Amend
-- Reset
-- Cherry-pick
-- Rebase
